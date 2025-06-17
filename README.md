@@ -14,7 +14,9 @@ Be aware that the databaseURL: "https://leads-tracker-app-239f0-default-rtdb.eur
 
 1.Clone the repository to your PC. Use git clone [repo-link] or download the ZIP and extract the files.<br/>
 2.Go to Firebase and create your own database.<br/>
-3.Open the link in your default mobile browser, go to upper 3 vertical dots for Samsung
+3. How to turn it into a small mobile app?<br/>
+For Android: Open the link in your mobile default browser and click on the dots as in the photo: ![leads-android](https://github.com/user-attachments/assets/b69f947e-c925-4c30-8e53-f334fb51da9e). Choose Add/Upload to Home screen and like this you turn it into a small mobile phone app. <br/>
+For IPhone: Open the link in your mobile default browser (Safari) and chose the upload button as in the photo: ![leads-iphone](https://github.com/user-attachments/assets/cb4d7858-a74d-43ba-a009-5a00291a7bf9). Choose Add/Upload to Home screen and like this you turn it into a small mobile phone app. <br/>
 
 ## 🖻SS
 
