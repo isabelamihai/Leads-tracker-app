@@ -1,19 +1,28 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Leads Tracker App
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This app is developed for saving leads, websites etc. via Firebase database. 
+<br/>
+<br/>
+Entering manually a lead/website etc and click on "SAVE INPUT" button. The data will be saved in firebase<br/>
+When deleting all lead/websites double click on "DELETE ALL". This will also clear the database. <br/>
+Be aware that the :// databaseURL: "https://leads-tracker-app-239f0-default-rtdb.europe-west1.firebasedatabase.app/" is unique for every user so you have to create your own in order to use it. <br/>
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🛠️Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=flat) ![Firebase Realtime DB](https://img.shields.io/badge/-Realtime%20DB-FFCA28?logo=firebase&logoColor=black&style=flat)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## ⚙️How it works?
 
-Happy Coding!
+1.Clone the repository to your PC
+Use git clone [repo-link] or download the ZIP and extract the files.
+
+2. Go to Firebase and create your own database.
+
+## 🖻SS
+
+![SS with the app](chrome-extension.png)
+
+## 🔛Live link
+
+Vezi aplicatia live aici:<br/>
+[GhPages](https://isabelamihai.github.io/chrome-extension) <br/>
+[Netlify](https://chrome-extension-a.netlify.app/)
