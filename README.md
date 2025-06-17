@@ -12,10 +12,9 @@ Be aware that the databaseURL: "https://leads-tracker-app-239f0-default-rtdb.eur
 
 ## ⚙️How it works?
 
-1.Clone the repository to your PC
-Use git clone [repo-link] or download the ZIP and extract the files.
-
-2. Go to Firebase and create your own database.
+1.Clone the repository to your PC. Use git clone [repo-link] or download the ZIP and extract the files.<br/>
+2.Go to Firebase and create your own database.<br/>
+3.Open the link in your default mobile browser, go to upper 3 vertical dots for Samsung
 
 ## 🖻SS
 
@@ -24,5 +23,5 @@ Use git clone [repo-link] or download the ZIP and extract the files.
 ## 🔛Live link
 
 Vezi aplicatia live aici:<br/>
-[GhPages](https://isabelamihai.github.io/chrome-extension) <br/>
+[GhPages](https://isabelamihai.github.io/Leads-tracker-app/) <br/>
 [Netlify](https://chrome-extension-a.netlify.app/)
