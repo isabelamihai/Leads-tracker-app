@@ -1,6 +1,6 @@
 # Leads Tracker App
 
-This app is developed for saving leads, websites etc. via Firebase database. 
+This app is developed for saving leads, websites etc. via Firebase Realtime Database.
 <br/>
 <br/>
 Entering manually a lead/website etc and click on "SAVE INPUT" button. The data will be saved in firebase<br/>
