@@ -28,4 +28,4 @@ For IPhone: Open the link in your mobile default browser (Safari) and chose the 
 
 Vezi aplicatia live aici:<br/>
 [GhPages](https://isabelamihai.github.io/Leads-tracker-app/) <br/>
-[Netlify](https://chrome-extension-a.netlify.app/)
+[Netlify](https://lead-trackerapp.netlify.app/)
