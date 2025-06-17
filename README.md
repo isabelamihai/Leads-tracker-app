@@ -1,4 +1,4 @@
-# Leads Tracker App
+# ⏭️ Leads Tracker App
 
 This app is developed for saving leads, websites etc. via Firebase Realtime Database.
 <br/>
